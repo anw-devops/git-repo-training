@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi im sameer this is changed by me 
 
+=======
+hi sameer
+hi quim
+>>>>>>> 5066bd5cb091b521f54f3e09be6ff0aabf129ef9

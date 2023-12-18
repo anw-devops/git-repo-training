@@ -1,8 +1,0 @@
-this is stash to test
-this is testing for stash to rebase
-<<<<<<< HEAD
-and today's date(18-12-23)
-=======
-and now testing to master(18-12-23)
-
->>>>>>> 038654a212f871d91877e4838c599ca7b1a39e2b
